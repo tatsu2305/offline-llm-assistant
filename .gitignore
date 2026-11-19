@@ -1,0 +1,17 @@
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Local runtime data, chat SQLite DB, backups, and service logs
+data/
+logs/
+backups/
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.zip
